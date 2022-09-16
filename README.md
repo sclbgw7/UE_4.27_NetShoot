@@ -1,3 +1,17 @@
+第八周更新：
+
+演示视频：https://share.weiyun.com/cqGY0AVh
+
+实现了网络同步下的手枪、步枪开火。之前做的各种功能都改写为了网络同步版。
+
+实现了布娃娃系统。
+
+
+
+------------
+
+
+
 第七周更新：
 
 演示视频：https://share.weiyun.com/ANOuA6Ec
